@@ -3,7 +3,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Harsh Akshit (Student Lead at Google). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<img src="https://github.com/Gbhutak10000/Network-Security-Bootcamp/blob/main/WhatsApp%20Image%202021-07-01%20at%209.09.56%20AM.jpeg” </a>
+<a img src="https://github.com/Gbhutak10000/Network-Security-Bootcamp/blob/main/WhatsApp%20Image%202021-07-01%20at%209.09.56%20AM.jpeg”> </a>
 <br>I got to have hands on experience on:
 <li>Python
 <li> Selenium for Web automation
